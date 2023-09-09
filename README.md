@@ -1,5 +1,5 @@
 Hi I'm Keria 
-I want to write about program website
+I want to write Java OOP
 
 
 
